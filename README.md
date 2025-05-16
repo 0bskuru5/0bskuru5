@@ -77,7 +77,6 @@
 
 ## ☎️ Contact Me in the Wild
 
-## ☎️ Reach Me in the Grid
 
 <p align="center">
   <a href="https://github.com/0bskuru5" target="_blank">
